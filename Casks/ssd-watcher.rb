@@ -1,6 +1,6 @@
 cask "ssd-watcher" do
-  version "0.1.0"
-  sha256 "d71ff1b344a4c79492e4c8b39a9aa2e6c832e07b271401eb55d0b6ff3b0c51d5"
+  version "0.1.1"
+  sha256 "391c68de33a9eb3e88ea9639a6b16c8bcbd8cd08c68d0171d8c42615095e1eb6"
 
   url "https://github.com/Takhoffman/ssd-watcher/releases/download/v#{version}/SSD-Watcher-#{version}.dmg"
   name "SSD Watcher"
